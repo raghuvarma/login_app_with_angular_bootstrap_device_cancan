@@ -22,6 +22,7 @@ gem 'devise', '3.2.4'
 
 gem 'cancan', '1.6.10'
 
+gem "less-rails"
 gem 'twitter-bootstrap-rails', '~> 2.2.8'
 
 gem 'better_errors', '~> 2.0.0'
@@ -34,6 +35,8 @@ gem 'jquery-rails'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
+
+gem 'angularjs-rails'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
